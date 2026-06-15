@@ -1,4 +1,5 @@
 //How to convert string to int without using library functions in c.
+
 #include<stdio.h>
 int str_to_int (char[]);
 int main()

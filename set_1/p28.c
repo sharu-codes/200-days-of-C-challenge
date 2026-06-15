@@ -1,4 +1,5 @@
 // Write a c program to convert octal number to binary number
+
 #include<stdio.h>
 void decToBin (int);
 int main()

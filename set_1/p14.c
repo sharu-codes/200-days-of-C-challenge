@@ -1,4 +1,5 @@
 //Write a c program to find out sum of digit of given number.
+
 #include<stdio.h>
 int main()
 {

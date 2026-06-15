@@ -1,3 +1,5 @@
+// C program to calculate the sum of the prime digits of a number
+
 #include<stdio.h>
 #include<math.h>
 int is_prime (int);

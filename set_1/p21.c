@@ -1,4 +1,5 @@
 //Write a c program to swap two numbers without using third variable
+
 #include<stdio.h>
 void swap (int*, int*);
 int main()

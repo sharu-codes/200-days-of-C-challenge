@@ -1,4 +1,5 @@
 //Write a c program to convert octal number to hexadecimal number.
+
 #include<stdio.h>
 int octToDec (int);
 void decToHex (int);

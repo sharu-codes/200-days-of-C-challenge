@@ -1,4 +1,5 @@
 // Write a c program to convert decimal number to binary number. 
+
 #include<stdio.h>
 void decToBin(int);
 int main()

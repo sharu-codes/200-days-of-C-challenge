@@ -1,4 +1,5 @@
 // Write a c program to convert octal number to decimal number
+
 #include<stdio.h>
 int main()
 {

@@ -1,4 +1,5 @@
 //Write a c program to find out L.C.M. of two numbers
+
 #include<stdio.h>
 int main ()
 {

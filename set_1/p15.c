@@ -1,4 +1,5 @@
 //Write a c program to find out power of number.
+
 #include<stdio.h>
 float power (int, int);
 int main()

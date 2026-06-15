@@ -1,3 +1,5 @@
+// C program to find the Nth prime number
+
 #include<stdio.h>
 #include<math.h>
 int is_prime (int);

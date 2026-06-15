@@ -1,4 +1,5 @@
 //Write a c program to convert decimal number to hexadecimal number
+
 #include<stdio.h>
 void decToHex(int);
 char switch_case (int);
