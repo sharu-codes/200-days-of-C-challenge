@@ -11,7 +11,7 @@ int main()
 }
 int str_to_int (char str[])
 {
-    int i=0, num=0, sign=0;
+    int i=0, num=0, sign=1;
     if (str[0]=='-')
     {
         sign=-1;
